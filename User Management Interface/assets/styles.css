@@ -1,0 +1,9 @@
+body {
+    background-image: url('background\ .jpg');
+    background-size: cover;   /* Ensures the image covers the entire page */
+    background-position: center center;  /* Centers the image */
+    background-attachment: fixed;  /* Keeps the image fixed when scrolling */
+    background-repeat: no-repeat;  /* Prevents the image from repeating */
+    margin: 0;
+    padding: 0;
+}
